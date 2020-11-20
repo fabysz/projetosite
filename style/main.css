@@ -59,6 +59,9 @@ header nav a:hover{
     align-items: flex-start;
 }
 
+.filme-principal {
+    background-image: url('/img/capa-house.jpg');
+}
 
 .filme-principal .descricao{
     margin-top: 10px;
